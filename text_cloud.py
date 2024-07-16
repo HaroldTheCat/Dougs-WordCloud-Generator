@@ -1,3 +1,10 @@
+#
+#	text_cloud.py
+#	Doug's Word Cloud Generator
+#
+#	Created by HaroldTheCat on 2024-07-16.
+#
+
 import tkinter as tk
 from tkinter import filedialog, messagebox, colorchooser
 import re
