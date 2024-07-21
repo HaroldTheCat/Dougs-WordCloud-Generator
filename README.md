@@ -8,3 +8,5 @@ This uses the very smart python package by
 Mueller, A. C. (2023). Wordcloud (Version 1.9.1) [Computer software]. https://github.com/amueller/wordcloud
 
 This is simply a GUI that implements his code, and prepares files for processing. 
+
+For my Programing teacher that may look at this, no I did not plagerize this, this is my repo. I did not copy myself. 
